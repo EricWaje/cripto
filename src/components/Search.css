@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+input{
+    border: none;
+    border-radius: 5px;
+    padding: 7px 8px;
+}
+
+input:focus{
+    outline: none;
+}
